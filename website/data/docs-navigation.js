@@ -16,7 +16,7 @@ export default [
     category: 'templates',
     content: [
     {
-      category: "Legacy JSON",
+      category: "legacy_json_templates",
       content: [
         'builders',
         'communicator',
@@ -27,7 +27,7 @@ export default [
       ]
     },
     {
-    category: 'HCL2',
+    category: 'hcl_templates',
         content: [
           {
             category: 'blocks',
